@@ -4,7 +4,7 @@
   "permalink": "https://reddit.com/r/sportsbook/comments/1qaeo3q/pick_of_the_day_11226_monday/",
   "target_date": "2026-01-12",
   "timezone": "America/Chicago",
-  "collected_utc": "2026-01-12T18:25:02.353590+00:00",
+  "collected_utc": "2026-01-12T18:55:11.774986+00:00",
   "comments": [
     {
       "created_utc": 1768241365.0,
@@ -47,6 +47,12 @@
       "author": "Sweet-Tooth_Jonez",
       "text": "**3W -1L - 0P +1.77 units**\n\nLast pick: Utah Jazz +5 (-110) ❌ \n\n**Today's pick: Utah/Cle u250.5 (-110)**\n\nWriteup: I use two models for totals, one predicts a total of 220.6 and another predicts 236.7, which gives us roughly 29 points and 13 points of value respectively. Early money has come in heavy on the under (70% of tickets and 81% of the money) so locking in now just in case this is the best number. BOL!\n\nBackground: I leveraged the book “Statistical Sports Models in Excel” by Andrew Mack to build a few NBA and NFL models. Each day (or week for NFL), I pull in the latest results to update the models, then make selections mainly based on the delta between my models and the current spread and the % of tickets and money coming in on each side. One thing to note, these models don’t factor in specific players so I also manually consider things like injuries in decisions.",
       "permalink": "https://reddit.com/r/sportsbook/comments/1qaeo3q/pick_of_the_day_11226_monday/nz6qi3k/"
+    },
+    {
+      "created_utc": 1768235223.0,
+      "author": "Pleasant_Ad2870",
+      "text": "Record: 4-4\n\nNet Units: -0.60 units \n\nLast pick: Illinois +1.5 (-115) over IOWA 💰\n\nEvent:  NCAAM BBall/2 pm EST\n\nPick:  Navy -2.5 (-108) over AMERICAN \n\nAmount (all bets to win 1u): (1.08 to win 1)  \n\nWrite Up: Based on model for ATS picks for CBB. Model identifies games with a certain statistical profile compared to the set line. Not sure if model translates to a “pick of the day” format as some days have multiple picks and some have none. Let’s see if it translates.",
+      "permalink": "https://reddit.com/r/sportsbook/comments/1qaeo3q/pick_of_the_day_11226_monday/nz6ovko/"
     },
     {
       "created_utc": 1768230487.0,
