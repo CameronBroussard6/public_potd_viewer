@@ -4,8 +4,14 @@
   "permalink": "https://reddit.com/r/sportsbook/comments/1qe0j24/pick_of_the_day_11626_friday/",
   "target_date": "2026-01-16",
   "timezone": "America/Chicago",
-  "collected_utc": "2026-01-16T18:25:09.541908+00:00",
+  "collected_utc": "2026-01-16T18:54:42.506734+00:00",
   "comments": [
+    {
+      "created_utc": 1768588597.0,
+      "author": "Sweet-Tooth_Jonez",
+      "text": "**4W - 1L - 0P +2.68 units**\n\nLast pick: Utah/Cle u250.5 (-110) 💰\n\n**Today's pick: NO/Ind u240.5 (-110)**\n\nWriteup: I use two models for totals, one predicts a total of 227.4 and another predicts 225.6, which gives us roughly 13 points and 15 points of value respectively. This line opened at 239 and bets are about even (47% of tickets and 45% of the money on under), so locking in the 240.5 but could see this going up another point or two. BOL!\n\nBackground: I leveraged the book “Statistical Sports Models in Excel” by Andrew Mack to build a few NBA and NFL models. Each day (or week for NFL), I pull in the latest results to update the models, then make selections mainly based on the delta between my models and the current spread and the % of tickets and money coming in on each side. One thing to note, these models don’t factor in specific players so I also manually consider things like injuries in decisions.",
+      "permalink": "https://reddit.com/r/sportsbook/comments/1qe0j24/pick_of_the_day_11626_friday/nzyuqsx/"
+    },
     {
       "created_utc": 1768587505.0,
       "author": "aryastark94",
