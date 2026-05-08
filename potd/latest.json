@@ -4,8 +4,38 @@
   "permalink": "https://reddit.com/r/sportsbook/comments/1t6pqyb/pick_of_the_day_5826_friday/",
   "target_date": "2026-05-08",
   "timezone": "America/Chicago",
-  "collected_utc": "2026-05-08T15:01:46.304365+00:00",
+  "collected_utc": "2026-05-08T16:42:46.518474+00:00",
   "comments": [
+    {
+      "created_utc": 1778256624.0,
+      "author": "TheLineTamer",
+      "text": "Record is 12-4 and the units won are +8.46\n\nYesterdays pick was New York Mets @ Colorado Rockies NRFI (u0.5 runs in the first inning) ✅\n\n**Today’s pick is Atlanta Braves @ Los Angeles Dodgers YRFI (o0.5 runs in the first inning)**\n\nGame Time: 7:10pm eastern\n\nUnits: 1.5u\n\nOdds: +105 (on DK)\n\nWrite Up: It seems that my Run First Inning model loves the Dodgers to score in the first inning - and for good reason! They are highest 1st inning scoring team on the slate today. Also if it's not the Dodgers scoring then the Braves should have a good shot as Sheehan has allowed a first inning run in 4 of the 6 games he started this season. He may be ready to snap back but I like too much for there to be a run in the first. Especially the odds.\n\n---\n\nHappy to discuss my full model with anyone.",
+      "permalink": "https://reddit.com/r/sportsbook/comments/1t6pqyb/pick_of_the_day_5826_friday/oknwelq/"
+    },
+    {
+      "created_utc": 1778255802.0,
+      "author": "JuiceJunkyy",
+      "text": "Record: 7-4 (+15.5u)\n\nBaseball | MLB | Grand Salami (First game 3:10pm PT)\n\nPick: MLB Grand Salami Under 129.5 (-110) - 3u\n\nWrite Up: Model identified 2 games with a good chance they'll stay 5 runs or under, with no games flagged as blowout concerns. Model is 25-12 on the season ✅\n\nLine is currently available on Betonline, Bovada and Draftkings⚾",
+      "permalink": "https://reddit.com/r/sportsbook/comments/1t6pqyb/pick_of_the_day_5826_friday/okntbfg/"
+    },
+    {
+      "created_utc": 1778255328.0,
+      "author": "bdog7243",
+      "text": "**Last 5 POTD:** \\--✅*✖️✖️*\n\n**Previous Pick:** Ayo Dosunmu o19.5 pts *✖️* \n\n**POTD Record:** 1-2\n\n**Today's Pick:** Rudy Gobert u8.5 pts\n\nIn the last 2 games vs SAS, Rudy has 5 and 7 points, while shooting a combined 4/14 from the line. Rudy is not a scoring threat, and MIN aren't trying to force him the ball in the paint with Wemby around.  His only scoring is coming from put back boards (which aren't easy against Wemby) and free throws (which he is awful at).  Looking for him to go under his points line for the 7th game in a row.",
+      "permalink": "https://reddit.com/r/sportsbook/comments/1t6pqyb/pick_of_the_day_5826_friday/oknrhn8/"
+    },
+    {
+      "created_utc": 1778252868.0,
+      "author": "CamCoversSports",
+      "text": "**Colorado Rockies ML +179 | 1.59u**  \n*MLB | May 08, 6:40 PM ET | COL @ PHI*\n\nPOD live record: 7-6 | +1.44u  \n✅ Previous result: ATH +113 | +1.42u\n\n***Picks posted daily at 11:00 AM ET.***\n\nModel play. I run a logistic regression MLB moneyline model trained on historical game, Statcast, lineup, and injury data with historical DraftKings odds for calibration. Uses walk-forward rolling backtesting to avoid lookahead bias. Kelly-style stake sizing with scale 0.85.\n\nBest verified season (2023, \\~98.6% odds coverage, 11am ET fixed odds):\n\nRecord: 497-212\n\nROI: 39.49%\n\nNet Units: +387.46u\n\nMax Drawdown: 5.98u\n\nModel gives COL a 41.3% win probability against an implied 35.8% from the line — 5.46% edge. Top drivers: starter matchup, contact quality. Stake lands at 1.59u after bankroll cap and damping.\n\nGL everyone.  \n[buymeacoffee.com/CamCoversSports](http://buymeacoffee.com/CamCoversSports)",
+      "permalink": "https://reddit.com/r/sportsbook/comments/1t6pqyb/pick_of_the_day_5826_friday/okni42n/"
+    },
+    {
+      "created_utc": 1778252063.0,
+      "author": "Outside-Evidence551",
+      "text": "Record: 1-1\nNet Units: 1\nROI: 0%\n\nGolf | PGA Tour | Truist Championship (Quail Hollow) | After Round 1 (Full tournament Finishing Sunday)\n\nPick: Cameron Young Top 10 (-162, 1 unit)\n\nWrite Up: Run a regression-based model that weights SG: T2G and SG: Approach most heavily at Quail Hollow. Six par 4s between 450-500 yards. Long irons separate the field here. Cameron Young leads the entire field in GIR 175-200 yards at 65.1%, which is the distance band that matters most at this venue. Model has him 4th overall in the composite ranking.\n\nCurrently tied for 14th after Round 1 with three rounds left. He won by six at Doral last week and arrives as World No. 3. The course profile fits the ball-striking profile. Three rounds is a lot of golf. \n\nIf you have found these pga picks helpful [BuyMeACoffee](https://buymeacoffee.com/strokesedge)",
+      "permalink": "https://reddit.com/r/sportsbook/comments/1t6pqyb/pick_of_the_day_5826_friday/oknf3b8/"
+    },
     {
       "created_utc": 1778249293.0,
       "author": "taj4y8",
