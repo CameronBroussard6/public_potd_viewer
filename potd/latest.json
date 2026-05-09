@@ -4,8 +4,20 @@
   "permalink": "https://reddit.com/r/sportsbook/comments/1t7mvcv/pick_of_the_day_5926_saturday/",
   "target_date": "2026-05-09",
   "timezone": "America/Chicago",
-  "collected_utc": "2026-05-09T15:11:35.596881+00:00",
+  "collected_utc": "2026-05-09T16:06:11.052355+00:00",
   "comments": [
+    {
+      "created_utc": 1778342071.0,
+      "author": "CamCoversSports",
+      "text": "**New York Yankees ML -136 | 1.43u**  \nMLB | May 09, 7:10 PM ET | NYY @ MIL\n\nPOD live record: 8-6 | +4.29u  \n✅ Previous result: COL +179 | +2.85u\n\nPicks posted daily at 11:00 AM ET.\n\nModel play. I run a logistic regression MLB moneyline model trained on historical game, Statcast, lineup, and injury data with historical DraftKings odds for calibration. Uses walk-forward rolling backtesting to avoid lookahead bias. Kelly-style stake sizing with scale 0.85.\n\nBest verified season (2023, \\~98.6% odds coverage, 11am ET fixed odds):\n\nRecord: 497-212\n\nROI: 39.49%\n\nNet Units: +387.46u\n\nMax Drawdown: 5.98u\n\nModel gives NYY a 60.9% win probability against an implied 57.6% from the line — 3.27% edge. Top drivers: contact quality. Stake lands at 1.43u after bankroll cap and damping.\n\nGL everyone.  \n[buymeacoffee.com/CamCoversSports](http://buymeacoffee.com/CamCoversSports)",
+      "permalink": "https://reddit.com/r/sportsbook/comments/1t7mvcv/pick_of_the_day_5926_saturday/okuakwx/"
+    },
+    {
+      "created_utc": 1778342004.0,
+      "author": "NonTabula",
+      "text": "Record: 2-1\n\nEvent: Pirates vs. Giants, 7:15 pm\n\nPick: NRFI\n\nOdds: -135 Hard Rock Bet\n\nReasoning: Ashcraft and Roupp are good first inning pitchers. This year they're a combined 14-0 NRFI, and last year they were a combined 24-6. The first four Giants hitters are a combined 2-8 against Ashcraft, but the Pirates hitters don't have enough of a sample size to write down. The lineups of the two teams have hit for a 53-24 NRFI record, with the Giants being particularly bad as the sixth worst NRFI hitting team in the league. If one team is going to score it'll probably be the Pirates. With the addition of Lowe and O'Hearn, they've significantly improved the top of their lineup, but Roupp is a great pitcher at home. He's 3-0 NRFI this year, and last year he was 7-2.",
+      "permalink": "https://reddit.com/r/sportsbook/comments/1t7mvcv/pick_of_the_day_5926_saturday/okuacvf/"
+    },
     {
       "created_utc": 1778339270.0,
       "author": "EthicalGambler",
@@ -49,15 +61,27 @@
       "permalink": "https://reddit.com/r/sportsbook/comments/1t7mvcv/pick_of_the_day_5926_saturday/oktd0o6/"
     },
     {
+      "created_utc": 1778330193.0,
+      "author": "TheDocPicks",
+      "text": "POTD Record: 1-3\n\nForm: ❌✅❌❌\n\nNet Units: -2.2 units\n\nPrevious POTD: AFL - Collingwood +14.5 @ $1.91 / -110❌\n\nToday's Pick: Boxing - Daniel Dubois win @ $2.00 / +100\n\nUnits: 1 Unit\n\nWrite Up:\n\nDaniel Dubois has fought the best of the best with his amateur and pro career, in recent times only falling short to Oleksandr Usyk (twice) but beating the likes of Anthony Joshua and Filip Hrgovic by stoppage between losses to Usuk. \n\nFabio Wardley is impressive with some notable wins on his resume but without an amateur career critics have wondered when he will fall short. I think against Dubois it is an extremely close matchup but Dubois uses his experience to find a way to get it done. \n\nBOL if tailing!",
+      "permalink": "https://reddit.com/r/sportsbook/comments/1t7mvcv/pick_of_the_day_5926_saturday/okta0f8/"
+    },
+    {
+      "created_utc": 1778326852.0,
+      "author": "Old-Friendship-8013",
+      "text": "Sport: Soccer | Bundesliga\n\nPick: VfB Stuttgart vs Bayer 04 Leverkusen — Over 0.5 Goals\n\nOdds: -200 (check your book)\n\nBet size: 2 units\n\n\n\nModel play — stacking ensemble (XGBoost + LightGBM + Random Forest).\n\n165 features per match including xG, Elo ratings, form, rest days.\n\n\n\nModel data:\n\n\\- Over 0.5 Goals market: 94% hit rate on 1,420 bets\n\n\\- High-confidence picks (≥78% prob): 85.9% on 1,588 bets\n\n\\- This pick confidence: 96.8%\n\n\n\nBoth teams average 2.1+ goals per home/away game last 10.\n\nLeverkusen haven't had a 0-0 in 34 straight matches.\n\nModel fires when all three base models agree above 0.78 threshold.\n\n\n\nGL everyone.",
+      "permalink": "https://reddit.com/r/sportsbook/comments/1t7mvcv/pick_of_the_day_5926_saturday/okt1nr8/"
+    },
+    {
       "created_utc": 1778318995.0,
       "author": "kridddlo",
-      "text": "Record: 11-5 ✅❌❌❌✅✅✅❌✅✅❌✅✅✅✅✅ **(10-2 L12)**\n\nStreak: 5-0 \n\nLast pick: NBA // Sixers vs. Knicks // Paul George to score 3+ 3PM (+105) ✅\n\nPG makes it an easy cash in the 1st quarter despite not scoring for the other thee quarters... we'll take it! \n\n**POTD: NBA // Lakers vs. Thunder // SGP: Lebron to score 18+ PTs, and Rui Hachimura to score 12+ PTs (+106)**\n\npretty straight forward here as i've been riding Rui and Lebron all playofds, no time to stop now as \n\n**Lebron has hit this line 10/11 last 11 games**, and will once again need to be the best player on the court for the Lakers to have a chance. only time this missed was the 10 point stinker in Houston. \n\n**Rui has hit this line 12/12 last 12 games** and continues to lead the league in 3% over the playoffs at just under 60%; given he's averaging almost 39 minutes a game, it'd be silly not to hammer this every time as when Rui plays over 27 minutes, this line hasn't lost since February 2nd",
+      "text": "Record: 11-5 ✅❌❌❌✅✅✅❌✅✅❌✅✅✅✅✅ **(10-2 L12)**  \n\nStreak: 5-0  \n\nLast pick: NBA // Sixers vs. Knicks // Paul George to score 3+ 3PM (+105) ✅\n\nPG makes it an easy cash in the 1st quarter despite not scoring for the other thee quarters... we'll take it!\n\n**POTD: NBA // Lakers vs. Thunder // SGP: Lebron to score 18+ PTs, and Rui Hachimura to score 12+ PTs (+106)**\n\npretty straight forward here as i've been riding Rui and Lebron all playoffs, no time to stop now as\n\n**Lebron has hit this line 10/11 last 11 games**, and will once again need to be the best player on the court for the Lakers to have a chance. only time this missed was the 10 point stinker in Houston.\n\n**Rui has hit this line 12/12 last 12 games** and continues to lead the league in 3% over the playoffs at just under 60%; given he's averaging almost 39 minutes a game, it'd be silly not to hammer this every time as when Rui plays over 27 minutes, this line hasn't lost since February 2nd",
       "permalink": "https://reddit.com/r/sportsbook/comments/1t7mvcv/pick_of_the_day_5926_saturday/okslwpg/"
     },
     {
       "created_utc": 1778318083.0,
       "author": "Aislamer_ASK",
-      "text": "POTD\n\nRecord: 0-1\n\nUnits: -5.28\n\nLast pick: Alex de Minaur 2-0 vs Matteo Arnaldi ❌\n\nTough loss yesterday as I was hoping to start with a win, but ADM had other plans. He won the first set dominantly and looked on course to close the match out in straights, but sadly he completely collapsed in the second-set tiebreaker and Arnaldi gained the momentum to win the match 1-2.\n\nAnyway, enough of that. Hoping to bounce back today with another bold pick, so let’s get into it.\n\nToday’s pick: ⚽️ VfB Stuttgart ML vs Bayer 04 Leverkusen\n\nOdds: 2.295\n\nStake: $5.28\n\nStarts in 4hrs\n\nWrite up: The race for champions league football is on as we see 5th-place Stuttgart takes on 4th-place Leverkusen. A win here could determine which side will stays in the top four since both teams are level on 58 points. With so much on the line, I expect an open and intense match with plenty of attacking football from both sides. You’re probably wondering why I picked Stuttgart to win this game. Well they’re the home side, they have a strong home record, and they already beat Leverkusen 4-1 earlier this year. With Champions League football at stake, I expect them to come out aggressive and look to repeat that performance. \n\nThis fixture is shaping up to be an absolute battle. Both teams are known for their attacking style and neither side will want to play it safe with this much on the line. Expect goals, intensity, and end to end football from start to finish.\n\nIt’ll definitely be a sweaty one, but I strongly believe Stuttgart step up and get the job done at home to secure us the bag 💰",
+      "text": "POTD\n\nRecord: 1-1\n\nUnits: +1.56u\n\nLast pick: Alex de Minaur 2-0 vs Matteo Arnaldi ❌\n\nTough loss yesterday as I was hoping to start with a win, but ADM had other plans. He won the first set dominantly and looked on course to close the match out in straights, but sadly he completely collapsed in the second-set tiebreaker and Arnaldi gained the momentum to win the match 1-2.\n\nAnyway, enough of that. Hoping to bounce back today with another bold pick, so let’s get into it.\n\nToday’s pick: ⚽️ VfB Stuttgart ML vs Bayer 04 Leverkusen ✅\n\nOdds: 2.295\n\nStake: $5.28\n\nStarts in 4hrs\n\nWrite up: The race for champions league football is on as we see 5th-place Stuttgart takes on 4th-place Leverkusen. A win here could determine which side will stays in the top four since both teams are level on 58 points. With so much on the line, I expect an open and intense match with plenty of attacking football from both sides. You’re probably wondering why I picked Stuttgart to win this game. Well they’re the home side, they have a strong home record, and they already beat Leverkusen 4-1 earlier this year. With Champions League football at stake, I expect them to come out aggressive and look to repeat that performance. \n\nThis fixture is shaping up to be an absolute battle. Both teams are known for their attacking style and neither side will want to play it safe with this much on the line. Expect goals, intensity, and end to end football from start to finish.\n\nIt’ll definitely be a sweaty one, but I strongly believe Stuttgart step up and get the job done at home to secure us the bag 💰",
       "permalink": "https://reddit.com/r/sportsbook/comments/1t7mvcv/pick_of_the_day_5926_saturday/okskaxl/"
     },
     {
@@ -67,10 +91,28 @@
       "permalink": "https://reddit.com/r/sportsbook/comments/1t7mvcv/pick_of_the_day_5926_saturday/okse8q6/"
     },
     {
+      "created_utc": 1778313592.0,
+      "author": "HokieBoy55",
+      "text": "Record: 0-0\nNet Units: 3 units \nROI:\nSport: MMA: UFC\nPick: Volkov ML -125\nWrite Up: I think Volkov is a way better striker than Waldo. Unless Volkov gets clipped like he did against Lewis, I think there’s a really high chance he wins. ",
+      "permalink": "https://reddit.com/r/sportsbook/comments/1t7mvcv/pick_of_the_day_5926_saturday/okscs91/"
+    },
+    {
       "created_utc": 1778312179.0,
       "author": "Most_Eagle9207",
       "text": "Record: 0-0  \nNet Units: 2 units   \nROI:  \nMLB Cubs vs Rangers 4PM Pacific  \nPick: Cubs over 4.5 runs -105 DraftKings  \nWrite Up: the last five starts for Jack Leiter have been really rough for him. He has given up five runs by himself in two of them . The Rangers bullpen hasn’t been too hot either. But you know who has been? The cubs offense.",
       "permalink": "https://reddit.com/r/sportsbook/comments/1t7mvcv/pick_of_the_day_5926_saturday/oksa8cx/"
+    },
+    {
+      "created_utc": 1778311025.0,
+      "author": "ProBettingInsights",
+      "text": "**Record: 10W – 3L**  \n**Net Units: +6.04u**  \n**ROI: 28.8%**\n\n  \nSpain La Liga — 09.05. | 18:30 CET\n\n# Atlético Madrid vs Celta Vigo\n\n**Pick:** OVER 2.5 Goals  \n**Odds:** 1.73  \n**Bookie:** bet365  \n**Stake:** 2 Units\n\n# Analysis\n\nThe season carried big expectations for Atlético Madrid, but overall it has ended up being another disappointing campaign. Despite the squad quality and ambitions, they never seriously looked like genuine title contenders in La Liga, spending most of the year chasing consistency rather than competing at the top.\n\nTheir exits in the Champions League against Arsenal and the Copa del Rey final loss to Real Sociedad only added to the frustration, leaving a top-four finish as the bare minimum objective rather than an achievement. With pressure mounting and little left to lose at this stage of the season, Atlético’s matches have recently become much more open offensively.\n\nCelta, meanwhile, are a team that usually plays without much caution, especially away from home, and their games often produce chances at both ends. Atlético still possess plenty of attacking quality, but defensively they’ve looked far less reliable than in previous Simeone seasons.\n\nGiven the context, motivation, and recent style of play from both sides, this feels like a strong spot for goals.\n\n  \n",
+      "permalink": "https://reddit.com/r/sportsbook/comments/1t7mvcv/pick_of_the_day_5926_saturday/oks84uj/"
+    },
+    {
+      "created_utc": 1778309800.0,
+      "author": "TheDocPicks",
+      "text": "POTD Record: 1-2\n\nForm: ❌✅❌\n\nNet Units: -1.2 units\n\nPrevious POTD: AFL - Port Adelaide ML @ 1.85 / -118 ❌\n\nToday's Pick: AFL - Collingwood +14.5 @ 1.91 / -110 6:40PM AEST\n\nUnits: 1 Unit\n\nWrite Up:\n\nRazor close 2 point loss last pick with scores level inside the final 2 minutes, ultimately port's turnovers costing them. \n\nIn this matchup, 3 of the last 5 have been decided by a single digit margin and with Collingwood regaining players such as the likes of Beau McCreery, Jeremy Howe and of course Scott Pendlebury (in his record equaling 432nd AFL game), I think the pies can get the win at the MCG or at least keep it within the 14 point margin. \n\nNotably, Geelong have looked shaky as of late with a loss to Port and shocking first half against North Melbourne last week. \n\nBOL if tailing!",
+      "permalink": "https://reddit.com/r/sportsbook/comments/1t7mvcv/pick_of_the_day_5926_saturday/oks5u5p/"
     },
     {
       "created_utc": 1778308809.0,
