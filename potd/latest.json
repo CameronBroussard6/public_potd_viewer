@@ -4,8 +4,20 @@
   "permalink": "https://reddit.com/r/sportsbook/comments/1ugkfhl/pick_of_the_day_62726_saturday/",
   "target_date": "2026-06-27",
   "timezone": "America/Chicago",
-  "collected_utc": "2026-06-27T20:05:22.521353+00:00",
+  "collected_utc": "2026-06-27T21:36:26.009890+00:00",
   "comments": [
+    {
+      "created_utc": 1782594094.0,
+      "author": "Always_Disaster_1683",
+      "text": "**Record: 2-3**\n\n**Net Units: -0.52u**\n\nPrevious Pick: Oryazabal to score or assist @ 1.71 1u (L) \n\n**Pick:** England vs Panama BTTS @ 2.20 0.5u\n\n**Write Up:** I see England conceding a goal due to overconfidence. ",
+      "permalink": "https://reddit.com/r/sportsbook/comments/1ugkfhl/pick_of_the_day_62726_saturday/ou73if9/"
+    },
+    {
+      "created_utc": 1782593066.0,
+      "author": "No_Butterscotch4917",
+      "text": "**POTD Record**: 1-2\n\n**Net Units**: -5.04U\n\n**Sport/Event**: Soccer | FIFA World Cup 2026 (Group Stage: Panama vs England)\n\n**Date**: Saturday, June 27, 2026 | 5:00 PM EST\n\n**Previous Pick**: Egypt Money Line against IR Iran @ 2.15 (3.5U) ❌\n\n**Pick: Panama +2.5 (Asian Handicap)**\n\n**Odds**: 1.75\n\n**Stake**: 4 Units\n\nHi everyone!\n\nTough break on Egypt yesterday. They had the structural advantage on paper, but the variance of the tournament caught up with us. The models don't rest, so we don't either. We take the loss on the chin and move forward.\n\nThe betting market is treating England as an unstoppable juggernaut today, pricing Panama +2.5 out at a very generous 1.75.\n\nMy models identified this as a massive valuation error driven by public bias.\n\nThe odds being at 1.75 implies a probability of just 57.1%, with my models thinking its closer to 70%. This leaves us with a staggering +13% True Edge against the bookmaker.\n\nHence, this easily warrants a 4U - 5U max play from the model.\n\n[Model Stats for nerds]\n\nThe historical test set validation metrics for the 3-way market for the model are:\n\n * **Expected Calibration Error (ECE):** 0.0249 (Meaning the probabilities are relatively close to reality)\n\n * **ROC-AUC (Ranking Outright Wins):** 0.7799 (Being able to separate true winners from traps)\n * **Log Loss:** 0.5599 (More confident guesses correlate with a higher win rate)\n\nBest of luck if you're tailing!",
+      "permalink": "https://reddit.com/r/sportsbook/comments/1ugkfhl/pick_of_the_day_62726_saturday/ou7064u/"
+    },
     {
       "created_utc": 1782589316.0,
       "author": "Odd_Dog955",
